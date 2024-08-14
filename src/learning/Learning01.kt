@@ -1,4 +1,12 @@
 package learning
 
-class Learning01 {
+fun main(args: Array<String>) {
+    print("name: ")
+    println("ゆせ")
+
+    print("language: ")
+    println("kotlin")
+
+    print("hitokoto: ")
+    println("kotlinがんばるぞおお")
 }
