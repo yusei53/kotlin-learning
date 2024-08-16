@@ -1,4 +1,4 @@
-package LearningFirst.Second
+package Tutorial.Second
 
 fun main(args: Array<String>) {
     val text = readLine()!!.split(",")

@@ -1,8 +1,9 @@
-package LearningFirst.Second
+package Tutorial.Second
 
 fun main(args: Array<String>) {
+    val number = readLine()!!.toInt()
     val text = readLine()!!.split(" ")
-    for (i in 0..2) {
+    for (i in 0..number - 1) {
         println(text[i])
     }
 }

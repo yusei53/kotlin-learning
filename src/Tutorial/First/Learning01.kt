@@ -1,4 +1,4 @@
-package LearningFirst.First
+package Tutorial.First
 
 fun main(args: Array<String>) {
     print("name: ")
