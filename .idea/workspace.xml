@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39f9f4ca-e979-4232-a203-49a7eff8d79b" name="変更" comment="setting formatter">
-      <change afterPath="$PROJECT_DIR$/src/learningD/FizzBuzz/Learning01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningD/FizzBuzz/Learning02.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningD/FortuneTelling/Learning02.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningD/FortuneTelling/Learning03.kt" afterDir="false" />
-    </list>
+    <list default="true" id="39f9f4ca-e979-4232-a203-49a7eff8d79b" name="変更" comment="rename dir to LearningD" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.Learning01Kt.executor": "Run",
+    "Kotlin.Learning02Kt (1).executor": "Run",
     "Kotlin.Learning02Kt.executor": "Run",
     "Kotlin.Learning02_01Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -54,29 +50,37 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/learning/Second" />
+      <recent name="$PROJECT_DIR$/src/learning/First" />
       <recent name="$PROJECT_DIR$/src/learningD/TwoInputsSeparatedBySingleSpace" />
       <recent name="$PROJECT_DIR$/src/learningD/OutputTwoNumbers" />
       <recent name="$PROJECT_DIR$/src/learningD/AssignmentOperation" />
-      <recent name="$PROJECT_DIR$/src/learning" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Learning02Kt">
+  <component name="RunManager" selected="Kotlin.Learning02Kt (1)">
     <configuration name="Learning01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning.Learning01Kt" />
+      <option name="MAIN_CLASS_NAME" value="LearningFirst.First.Learning01Kt" />
+      <module name="paiza-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Learning02Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learningD.AssignmentOperation.Learning02Kt" />
       <module name="paiza-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Learning02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learningD.FizzBuzz.Learning02Kt" />
+      <option name="MAIN_CLASS_NAME" value="aa.FizzBuzz.Learning02Kt" />
       <module name="paiza-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Learning02_01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning.Learning02_01Kt" />
+      <option name="MAIN_CLASS_NAME" value="LearningFirst.Second.Learning02_01Kt" />
       <module name="paiza-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Learning02Kt (1)" />
         <item itemvalue="Kotlin.Learning02Kt" />
         <item itemvalue="Kotlin.Learning02_01Kt" />
         <item itemvalue="Kotlin.Learning01Kt" />
@@ -275,16 +280,108 @@
       <option name="project" value="LOCAL" />
       <updated>1723802538170</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add Learning02.kt in learningD.FortuneTelling">
+      <option name="closed" value="true" />
+      <created>1723808286116</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1723808286116</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add Learning03.kt in learningD.FortuneTelling">
+      <option name="closed" value="true" />
+      <created>1723808290495</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1723808290495</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add Learning01.kt in learningD.FizzBuzz">
+      <option name="closed" value="true" />
+      <created>1723808303759</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1723808303759</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add Learning02.kt in learningD.FizzBuzz">
+      <option name="closed" value="true" />
+      <created>1723808307910</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1723808307910</updated>
+    </task>
+    <task id="LOCAL-00027" summary="chore">
+      <option name="closed" value="true" />
+      <created>1723808313070</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1723808313070</updated>
+    </task>
+    <task id="LOCAL-00028" summary="rename dir">
+      <option name="closed" value="true" />
+      <created>1723808661517</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1723808661517</updated>
+    </task>
+    <task id="LOCAL-00029" summary="chore">
+      <option name="closed" value="true" />
+      <created>1723808667721</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1723808667721</updated>
+    </task>
+    <task id="LOCAL-00030" summary="rename dir">
+      <option name="closed" value="true" />
+      <created>1723808959378</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1723808959379</updated>
+    </task>
+    <task id="LOCAL-00031" summary="rename dir">
+      <option name="closed" value="true" />
+      <created>1723809014337</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1723809014337</updated>
+    </task>
+    <task id="LOCAL-00032" summary="rename dir test">
+      <option name="closed" value="true" />
+      <created>1723809241646</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1723809241646</updated>
+    </task>
+    <task id="LOCAL-00033" summary="delete dir">
+      <option name="closed" value="true" />
+      <created>1723809272785</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1723809272785</updated>
+    </task>
+    <task id="LOCAL-00034" summary="rename dir to LearningD">
+      <option name="closed" value="true" />
+      <created>1723809415908</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1723809415908</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Learning01.kt" />
-    <MESSAGE value="add Learning02-01.kt" />
-    <MESSAGE value="add Learning02-02.kt" />
     <MESSAGE value="add Learning02-03.kt" />
     <MESSAGE value="add Learning02-04.kt" />
-    <MESSAGE value="chore" />
     <MESSAGE value="add Learning02-05.kt" />
     <MESSAGE value="add Learning02-06.kt" />
     <MESSAGE value="add Learning02-07.kt" />
@@ -299,6 +396,15 @@
     <MESSAGE value="add Learning02.kt in learningD.NumberOfPassengers" />
     <MESSAGE value="add Learning01.kt in learningD.FortuneTelling" />
     <MESSAGE value="setting formatter" />
-    <option name="LAST_COMMIT_MESSAGE" value="setting formatter" />
+    <MESSAGE value="add Learning02.kt in learningD.FortuneTelling" />
+    <MESSAGE value="add Learning03.kt in learningD.FortuneTelling" />
+    <MESSAGE value="add Learning01.kt in learningD.FizzBuzz" />
+    <MESSAGE value="add Learning02.kt in learningD.FizzBuzz" />
+    <MESSAGE value="chore" />
+    <MESSAGE value="rename dir" />
+    <MESSAGE value="rename dir test" />
+    <MESSAGE value="delete dir" />
+    <MESSAGE value="rename dir to LearningD" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename dir to LearningD" />
   </component>
 </project>
