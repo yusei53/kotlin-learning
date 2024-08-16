@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39f9f4ca-e979-4232-a203-49a7eff8d79b" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/learning/Learning02-01.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learning/Learning01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/learning/Learning01.kt" afterDir="false" />
+    <list default="true" id="39f9f4ca-e979-4232-a203-49a7eff8d79b" name="変更" comment="setting formatter">
+      <change afterPath="$PROJECT_DIR$/src/learningD/FizzBuzz/Learning01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningD/FizzBuzz/Learning02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningD/FortuneTelling/Learning02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningD/FortuneTelling/Learning03.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +19,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
@@ -36,15 +44,32 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.Learning01Kt.executor": "Run",
+    "Kotlin.Learning02Kt.executor": "Run",
     "Kotlin.Learning02_01Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.ktlint-plugin"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Learning02_01Kt">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/learningD/TwoInputsSeparatedBySingleSpace" />
+      <recent name="$PROJECT_DIR$/src/learningD/OutputTwoNumbers" />
+      <recent name="$PROJECT_DIR$/src/learningD/AssignmentOperation" />
+      <recent name="$PROJECT_DIR$/src/learning" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Learning02Kt">
     <configuration name="Learning01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learning.Learning01Kt" />
+      <module name="paiza-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Learning02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learningD.FizzBuzz.Learning02Kt" />
       <module name="paiza-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Learning02Kt" />
         <item itemvalue="Kotlin.Learning02_01Kt" />
         <item itemvalue="Kotlin.Learning01Kt" />
       </list>
@@ -73,6 +99,206 @@
       <option name="presentableId" value="Default" />
       <updated>1723647086292</updated>
     </task>
+    <task id="LOCAL-00001" summary="add Learning01.kt">
+      <option name="closed" value="true" />
+      <created>1723650169388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723650169388</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Learning02-01.kt">
+      <option name="closed" value="true" />
+      <created>1723650181324</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723650181324</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Learning02-02.kt">
+      <option name="closed" value="true" />
+      <created>1723650185868</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723650185868</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add Learning02-03.kt">
+      <option name="closed" value="true" />
+      <created>1723650190638</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723650190638</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add Learning02-04.kt">
+      <option name="closed" value="true" />
+      <created>1723650197680</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723650197680</updated>
+    </task>
+    <task id="LOCAL-00006" summary="chore">
+      <option name="closed" value="true" />
+      <created>1723650205778</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723650205778</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add Learning02-05.kt">
+      <option name="closed" value="true" />
+      <created>1723793263916</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723793263916</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add Learning02-06.kt">
+      <option name="closed" value="true" />
+      <created>1723793268123</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723793268123</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add Learning02-07.kt">
+      <option name="closed" value="true" />
+      <created>1723793272684</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723793272684</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add Learning02-08.kt">
+      <option name="closed" value="true" />
+      <created>1723793278976</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723793278976</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add Learning01.kt in learningD.OutputTwoNumbers">
+      <option name="closed" value="true" />
+      <created>1723796312159</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1723796312159</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add Learning02.kt in learningD.OutputTwoNumbers">
+      <option name="closed" value="true" />
+      <created>1723796316318</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723796316318</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add Learning03.kt in learningD.OutputTwoNumbers">
+      <option name="closed" value="true" />
+      <created>1723796320868</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723796320868</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add Learning04.kt in learningD.OutputTwoNumbers">
+      <option name="closed" value="true" />
+      <created>1723796324508</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1723796324508</updated>
+    </task>
+    <task id="LOCAL-00015" summary="move">
+      <option name="closed" value="true" />
+      <created>1723796558960</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1723796558960</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add Learning01.kt in learningD.OutputTwoNumbers">
+      <option name="closed" value="true" />
+      <created>1723798256420</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1723798256420</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add Learning02.kt in learningD.OutputTwoNumbers">
+      <option name="closed" value="true" />
+      <created>1723798261710</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1723798261710</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add Learning01.kt in learningD.TwoInputsSeparatedBySingleSpace">
+      <option name="closed" value="true" />
+      <created>1723799716222</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1723799716222</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add Learning01.kt in learningD.NumberOfPassengers">
+      <option name="closed" value="true" />
+      <created>1723801872024</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1723801872024</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add Learning02.kt in learningD.NumberOfPassengers">
+      <option name="closed" value="true" />
+      <created>1723801880302</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1723801880302</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add Learning01.kt in learningD.FortuneTelling">
+      <option name="closed" value="true" />
+      <created>1723802424353</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1723802424353</updated>
+    </task>
+    <task id="LOCAL-00022" summary="setting formatter">
+      <option name="closed" value="true" />
+      <created>1723802538170</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1723802538170</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Learning01.kt" />
+    <MESSAGE value="add Learning02-01.kt" />
+    <MESSAGE value="add Learning02-02.kt" />
+    <MESSAGE value="add Learning02-03.kt" />
+    <MESSAGE value="add Learning02-04.kt" />
+    <MESSAGE value="chore" />
+    <MESSAGE value="add Learning02-05.kt" />
+    <MESSAGE value="add Learning02-06.kt" />
+    <MESSAGE value="add Learning02-07.kt" />
+    <MESSAGE value="add Learning02-08.kt" />
+    <MESSAGE value="add Learning03.kt in learningD.OutputTwoNumbers" />
+    <MESSAGE value="add Learning04.kt in learningD.OutputTwoNumbers" />
+    <MESSAGE value="move" />
+    <MESSAGE value="add Learning01.kt in learningD.OutputTwoNumbers" />
+    <MESSAGE value="add Learning02.kt in learningD.OutputTwoNumbers" />
+    <MESSAGE value="add Learning01.kt in learningD.TwoInputsSeparatedBySingleSpace" />
+    <MESSAGE value="add Learning01.kt in learningD.NumberOfPassengers" />
+    <MESSAGE value="add Learning02.kt in learningD.NumberOfPassengers" />
+    <MESSAGE value="add Learning01.kt in learningD.FortuneTelling" />
+    <MESSAGE value="setting formatter" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting formatter" />
   </component>
 </project>
