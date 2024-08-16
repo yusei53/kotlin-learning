@@ -1,7 +1,7 @@
-package learning
+package LearningFirst.Second
 
 fun main(args: Array<String>) {
-    for (i in 0..2){
+    for (i in 0..2) {
         val message = readLine()
         println(message)
     }

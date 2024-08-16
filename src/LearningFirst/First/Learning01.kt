@@ -1,4 +1,4 @@
-package learning
+package LearningFirst.First
 
 fun main(args: Array<String>) {
     print("name: ")
