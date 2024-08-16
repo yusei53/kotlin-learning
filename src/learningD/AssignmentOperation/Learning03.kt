@@ -1,4 +1,4 @@
-package learningD.OutputTwoNumbers
+package learningD.AssignmentOperation
 
 fun main(args: Array<String>) {
     val A = 202
