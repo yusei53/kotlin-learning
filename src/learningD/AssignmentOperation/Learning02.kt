@@ -7,5 +7,5 @@ fun main(args: Array<String>) {
     val FirstAnswer = A / B
     val SecondAnswer = A % B
 
-    print("${FirstAnswer} ${SecondAnswer}")
+    print("$FirstAnswer $SecondAnswer")
 }
