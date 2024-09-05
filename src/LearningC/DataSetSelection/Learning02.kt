@@ -1,13 +1,11 @@
 package LearningC.DataSetSelection
 
 fun main(args: Array<String>) {
-    val n1 = readLine()!!.toInt()
-    val A = readLine()!!.split(" ").map { it.toInt() }
+    val n1 = readLine()!!
+    val resultList = readLine()!!.split(" ")
     val n2 = readLine()!!.toInt()
-    val B = readLine()!!.split(" ").map { it.toInt() }
-
-    for (i in 0 until n2) {
-        println(A[B[i] - 1])
+    val numberList = readLine()!!.split(" ").map { it.toInt() }
+    for (i in numberList) {
+        println(resultList[i - 1])
     }
-
 }
