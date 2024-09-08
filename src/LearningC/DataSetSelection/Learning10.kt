@@ -11,7 +11,7 @@ fun main(args: Array<String>) {
     // コレクションをグループ化して、各要素の出現回数をカウント
     val groupList = StringArray.groupingBy { it }.eachCount()
 
-    // グループ化したリストをソート
+    // グループ化したリストの要素をkeyでソート
     val sortGroupList = groupList.toSortedMap()
 
     // Map型なのでkey-valueを引数に取ることができる
