@@ -1,4 +1,4 @@
-package LearningC.DataSetSelection
+package learningC.dataSetSelection
 
 fun main(args: Array<String>) {
     // とても小さい数値を受け取れるBigDecimal型

@@ -1,4 +1,4 @@
-package LearningC.DataSetSelection
+package learningC.dataSetSelection
 
 fun main(args: Array<String>) {
     val (n1, n2, n3, n4) = readLine()!!.split(" ").map { it.toInt() }

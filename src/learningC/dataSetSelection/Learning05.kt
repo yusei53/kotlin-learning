@@ -1,4 +1,4 @@
-package LearningC.DataSetSelection
+package learningC.dataSetSelection
 
 fun main(args: Array<String>) {
     // Longの最大値を超える整数値をも出力
