@@ -1,4 +1,4 @@
-package test
+package learningC.logicOperation
 
 fun main() {
     val n = readLine()!!.toInt()

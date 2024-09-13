@@ -1,4 +1,4 @@
-package test
+package learningC.dataSetSelection
 
 fun main() {
     val (n1, n2) = readLine()!!.split(" ").map { it.toInt() }
