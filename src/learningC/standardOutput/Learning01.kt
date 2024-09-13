@@ -1,4 +1,4 @@
-package LearningC.StandardOutput
+package learningC.standardOutput
 
 fun main(args: Array<String>) {
     val array = arrayOf(8, 1, 3)
