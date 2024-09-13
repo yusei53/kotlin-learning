@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39f9f4ca-e979-4232-a203-49a7eff8d79b" name="変更" comment="chore">
-      <change afterPath="$PROJECT_DIR$/src/LearningC/DataSetSelection/Learning01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningC/DataSetSelection/Learning02.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningC/DataSetSelection/Learning03.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningC/DataSetSelection/Learning04.kt" afterDir="false" />
+    <list default="true" id="39f9f4ca-e979-4232-a203-49a7eff8d79b" name="変更" comment="add Learning02.kt in learningC.logicOperation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -462,13 +458,34 @@
       <option name="project" value="LOCAL" />
       <updated>1724081837397</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="update in learningC.dataSetSelection">
+      <option name="closed" value="true" />
+      <created>1726237167933</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1726237167933</updated>
+    </task>
+    <task id="LOCAL-00046" summary="update Learning01.kt in learningC.logicOperation">
+      <option name="closed" value="true" />
+      <created>1726237794875</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1726237794875</updated>
+    </task>
+    <task id="LOCAL-00047" summary="add Learning02.kt in learningC.logicOperation">
+      <option name="closed" value="true" />
+      <created>1726237810633</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1726237810633</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Learning03.kt in learningD.OutputTwoNumbers" />
-    <MESSAGE value="add Learning04.kt in learningD.OutputTwoNumbers" />
-    <MESSAGE value="move" />
     <MESSAGE value="add Learning01.kt in learningD.OutputTwoNumbers" />
     <MESSAGE value="add Learning02.kt in learningD.OutputTwoNumbers" />
     <MESSAGE value="add Learning01.kt in learningD.TwoInputsSeparatedBySingleSpace" />
@@ -491,6 +508,9 @@
     <MESSAGE value="add Learning03.kt in LearningC.StandardOutput" />
     <MESSAGE value="add Learning04.kt in LearningC.StandardOutput" />
     <MESSAGE value="chore" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore" />
+    <MESSAGE value="update in learningC.dataSetSelection" />
+    <MESSAGE value="update Learning01.kt in learningC.logicOperation" />
+    <MESSAGE value="add Learning02.kt in learningC.logicOperation" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Learning02.kt in learningC.logicOperation" />
   </component>
 </project>
