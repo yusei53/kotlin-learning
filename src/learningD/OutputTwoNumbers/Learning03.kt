@@ -1,4 +1,4 @@
-package LearningD.OutputTwoNumbers
+package learningD.OutputTwoNumbers
 
 fun main(args: Array<String>) {
     val (n1, n2) = readLine()!!.split(" ").map { it.toInt() }
