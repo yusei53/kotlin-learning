@@ -1,3 +1,5 @@
+package learningC.stringHandling
+
 fun main(args: Array<String>) {
     val string = readln().split("/")
     val year = string[0]
