@@ -1,13 +1,15 @@
 package learningC.stringHandling
 
 fun main() {
-    val input = readLine() ?: return
-    println(formatNumber(input))
+    val number = readln()
+    println(formatNumber(number))
 }
 
 fun formatNumber(s: String): String {
+    // 最初のドットのインデックスを取得
     val firstDotIndex = s.indexOf('.')
     val cleanedDots = if (firstDotIndex != -1) {
+        // substringでドットの前後を取得し、後者はドットを削除
         val beforeDot = s.substring(0, firstDotIndex)
         val afterDot = s.substring(firstDotIndex + 1).replace(".", "")
         "$beforeDot.$afterDot"
