@@ -1,4 +1,4 @@
-fun findIndex(arr: Array<Int>, item: Int): Int {
+private fun findIndex(arr: Array<Int>, item: Int): Int {
     val result = arr.indexOf(item)
     return result
 }
